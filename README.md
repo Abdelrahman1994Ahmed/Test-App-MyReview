@@ -1,3 +1,19 @@
-# Test-App-MyReview
-Test App For my freelance project
-Designed and developed a RESTful back-end for a short-form video social platform, handling user authentication, content delivery, feed generation, and engagement tracking using ASP.NET Core and SQL Server.
+# MyReview
+
+Back-end system for a short-form video social platform.
+Built with ASP.NET Core and EF Core, providing JWT-based
+authentication, user profiles, content upload and delivery,
+infinite-scroll feed generation, and engagement features
+(likes, comments, shares).
+
+## Tech Stack
+
+- C# / ASP.NET Core
+- EF Core
+- SQL Server
+- JWT Authentication
+
+## Features
+
+- JWT auth & role-based access control
+- Infinite-scroll feed with pagination   
